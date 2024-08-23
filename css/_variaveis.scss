@@ -1,0 +1,12 @@
+$primaria:rgb(74, 203, 226);
+$secundaria:black;
+$textos:white;
+$size-titulo:2rem;
+$size-link:1.2rem;
+$margin-texto:1rem;
+
+
+@mixin padd{
+    margin: 0;
+    padding: 0;
+}
